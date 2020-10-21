@@ -7,6 +7,7 @@ function App() {
     <div className="App">
    <h1> Parking zone </h1>
    <h1> Bienvenidos </h1>
+   <h1> Hola </h1>
     </div>
   );
 }
