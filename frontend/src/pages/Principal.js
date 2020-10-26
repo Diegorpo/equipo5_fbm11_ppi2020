@@ -1,9 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer'
-import Hombre1 from '../img/hombre1.jpeg';
-import Hombre2 from '../img/hombre2.jpeg';
-import Imagengrande from '../img/imagengrande.jpeg';
 import '../styles/Principal.css';
 
 
@@ -18,13 +15,11 @@ function Principal(props){
 <h2 className="titulo "> Parqueaderos </h2>
 <section className="sepcion-uno">
     <div className="contenedor-dos">
-        <img src={Hombre1} alt=""/>
         <h3 className="titulo-cuatro"> Lugares aledaños </h3>
         <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio inventore nulla nobis doloremque nesciunt amet aliquam rem exercitationem iste sit?
         </p>
     </div>
     <div className="contenedor-tres">
-        <img src={Hombre2} alt=""/>
         <h3 className="titulo-cuatro">Motos </h3>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, repellendus. Cupiditate atque sed iusto nisi consectetur, eos magnam itaque aperiam.
         </p>
@@ -33,7 +28,6 @@ function Principal(props){
 
 <section className="sepcion-dos">
     <div className="imagen">
-        <img src={Imagengrande} alt=""/>
     </div>
 
     <div className="texto">
