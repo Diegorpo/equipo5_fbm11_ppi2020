@@ -23,7 +23,7 @@ function Footer(props) {
                         </a>
                     </li>
                 </ul>
-                <p className="text"><em>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero, voluptas.</em></p>
+                <p className="text"><em>Encontraras toda la seguridad que necesitas para  vehículo acá ¡Pruébala ya!</em></p>
 
 
             </div>

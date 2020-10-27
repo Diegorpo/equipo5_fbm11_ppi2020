@@ -18,8 +18,8 @@ function Nosotros (props){
              <section className="sepcion-uno">
                  <div className="colum-uno">
                      <h2 className="til">Acerca de nosotros</h2>
-                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem voluptas quas ratione itaque. Sunt itaque, reprehenderit adipisci minima quasi, quaerat quo id, molestiae voluptas dolorum architecto tempora officia facere nihil.</p>
-                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia quisquam, officiis reprehenderit maiores ipsam incidunt!</p>
+                     <p>La mejor manera de tener tu vehículo a salvo.</p>
+                
                  </div>
                  <div className="colum-dos">
                     

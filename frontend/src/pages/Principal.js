@@ -16,12 +16,12 @@ function Principal(props){
 <section className="sepcion-uno">
     <div className="contenedor-dos">
         <h3 className="titulo-cuatro"> Lugares aledaños </h3>
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio inventore nulla nobis doloremque nesciunt amet aliquam rem exercitationem iste sit?
+        <p> La mejor manera de tener tu vehículo a salvo
         </p>
     </div>
     <div className="contenedor-tres">
         <h3 className="titulo-cuatro">Motos </h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores, repellendus. Cupiditate atque sed iusto nisi consectetur, eos magnam itaque aperiam.
+        <p>La manera más segura para tu vehículo 
         </p>
     </div>
 </section>
@@ -32,7 +32,7 @@ function Principal(props){
 
     <div className="texto">
         <h2 className="tilulo-dos">Ayuda</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus accusamus dolorum ea, ad adipisci excepturi sapiente sed libero at, eos exercitationem sequi vitae porro pariatur.</p>
+        <p>Mantén tu vehículo seguro </p>
     </div>
 
 </section>
@@ -40,18 +40,17 @@ function Principal(props){
 <section className="sepcion-tres">
     <div className="columna-uno">
         <h3 className="titulo-tres">ubicación</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi provident numquam atque veniam deserunt laboriosam.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, placeat.</p>
+        <p>Si tu carro a salvó deseas tener, con esta aplicación lo puedes obtener</p>
+        <p>Acá tendremos tu carro seguro ¡Anímate!</p>
     </div>
     <div className="columna-dos">
         <h3 className="titulo-tres">Beneficios</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, rerum ducimus. Itaque ex quod voluptatum repudiandae maiores nihil quibusdam et!</p>
+        <p>La mejor opción para la seguridad de tu vehículo</p>
     </div>
     <div className="columna-tres">
         <h3 className="titulo-tres">Dificultades</h3>
-        <p>Lorem ipsum dolor sit amet.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, fugiat.</p>
-        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Encontraras toda la seguridad que necesitas para  vehículo acá ¡Pruébala ya!.</p>
+        
     </div>
 </section>
 </main>
