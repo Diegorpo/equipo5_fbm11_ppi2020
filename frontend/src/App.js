@@ -1,8 +1,6 @@
 import React from 'react';
-import Principal from './pages/Principal';
-import Nosotros from './pages/Nosotros';
-import Iniciarsesion from './pages/Iniciarsesion';
-import Registro from './pages/Registro';
+import Principal from '../src/pages/Principal';
+
 import {
   BrowserRouter, Route,
   Switch,
@@ -14,24 +12,13 @@ function App() {
     <>
      <BrowserRouter>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/Principal" exact>
             <Principal/>
           </Route>
-          <Route path="/nosotros">
-            <Nosotros/> 
-          </Route>
-          <Route path="/sesion">
-              <Iniciarsesion/>
-          </Route>
-          <Route path="/registro">
-              <Registro/>
-          </Route>
-
+         
         </Switch>
         </BrowserRouter>
-     </>
-   
-    
+     </> 
   );
 }
 
