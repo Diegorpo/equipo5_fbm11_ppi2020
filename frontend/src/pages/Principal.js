@@ -10,11 +10,10 @@ class Principal extends Component {
             <div className="contenedor">
                 <img src={Logo} />
                 <div className="botonn">
-                <button className="boton"><Link className="bot"> Siguiente </Link></button>
+                <button className="boton"><Link to='/Menu'className="bot"> SIGUIENTE </Link></button>
                 </div>
-                
-            </div>
-        );
-    }
-}
-export default App;
+                </div>
+        )};
+    };
+
+export default Principal;

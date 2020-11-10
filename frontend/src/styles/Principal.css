@@ -3,18 +3,21 @@
     
 }
 .contenedor img{
-    width: 700px;
-    height: 600px;
-    margin-left:  200px;
+    width: 600px;
+    height: 450px;
+    margin-left:  319px;
 }
 .boton{
-    background: rgb(33, 90, 245);
-    width: 150px;
+    background: rgb(33, 245, 234);
+    width: 160px;
     height: 50px;
-    border-radius: 30px;
-    margin-left: 900px;
+    border-radius: 20px;
+    margin-left: 530px;
+    margin-top: 50px;
+
 }
 .bot{
     font-size: 25px;
-    color: #fff;
-}
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+}  

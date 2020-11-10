@@ -1,5 +1,6 @@
 import React from 'react';
-import Principal from '../src/pages/Principal';
+import Principal from '../src/pages/Principal.js';
+import Menu from '../src/pages/Menu.js';
 
 import {
   BrowserRouter, Route,
@@ -14,6 +15,9 @@ function App() {
         <Switch>
           <Route path="/Principal" exact>
             <Principal/>
+          </Route>
+          <Route path="/Menu" exact>
+            <Menu/>
           </Route>
          
         </Switch>
