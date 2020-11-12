@@ -1,0 +1,66 @@
+.contenedor{
+    padding: 50px;
+    
+}
+.boton6{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.icono img {
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.Ac{
+    margin-left: 555px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 60px;
+}
+.Qu{
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 40px;
+}
+.So{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+   
+    margin-top: 20px;
+}
+.Hellen img{
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.Daniela img{
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.Allison img{
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.Alejandro img{
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 40px;
+}

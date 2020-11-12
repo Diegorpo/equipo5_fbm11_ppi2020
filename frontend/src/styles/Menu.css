@@ -2,16 +2,122 @@
     padding: 50px;
     
 }
-.contenedor {
-    width: 400px;
-    height: 225px;
-    margin-left:  319px;
+.fondo img {
+    width: 430px;
+    height: 330px;
+    margin-left: 448px;
+    margin-top: 40px;
 }
-.botonn1{
+.boton1{
     background: rgb(26, 241, 231);
-    width: 160px;
-    height: 50px;
-    border-radius: 20px;
-    margin-left: 530px;
-    margin-top: 50px;
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 565px;
+    margin-top: 17px;
 }
+.boton2{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 565px;
+    margin-top: 17px;
+}
+.boton3{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 565px;
+    margin-top: 17px;
+}
+.boton4{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 565px;
+    margin-top: 17px;
+}
+.boton5{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 565px;
+    margin-top: 17px;
+}
+.h1{
+ margin-left: 150px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+}
+.h2{
+    margin-left: 150px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+   }
+   .h3{
+    margin-left: 150px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+   }
+   .h4{
+    margin-left: 150px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+   }
+   .h5{
+    margin-left: 535px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+   }
+   .card-title1{
+    margin-left: 540px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+
+   }
+   .card-title2{
+    margin-left: 608px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+   }
+   .card-title3{
+    margin-left: 533px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+   }
+   .card-title4{
+    margin-left: 590px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+   }
+   .card-title5{
+    margin-left: 496px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+
+   }
+

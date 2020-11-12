@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import Logo from '../img/LOGO.jpeg';
+import Zone  from '../img/Parking.jpeg';
 import { Link } from 'react-router-dom';
-import '../styles/Principal.css';
-
+import '../styles/Parqueaderos.css'
 
 class Principal extends Component {
     render () {
@@ -17,4 +16,4 @@ class Principal extends Component {
         )};
     };
 
-export default Principal;
+export default Parqueaderos;

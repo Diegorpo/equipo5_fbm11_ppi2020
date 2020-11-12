@@ -1,15 +1,14 @@
 import React, { Component } from 'react';
-import Logo from '../img/LOGO.jpeg';
+import Zone  from '../img/Parking.jpeg';
 import { Link } from 'react-router-dom';
-import '../styles/Principal.css';
+import '../styles/Ayuda.css';
 
-
-class Principal extends Component {
+class Ayuda extends Component {
     render () {
         return(
-            <div className="contenedor">
+            <div className="Zone">
                 <img src={Logo} />
-                <div className="botonn">
+                <div className="bott">
                 <button className="boton"><Link to='/Menu'className="bot"> SIGUIENTE </Link></button>
     
                 </div>
@@ -17,4 +16,4 @@ class Principal extends Component {
         )};
     };
 
-export default Principal;
+export default Ayuda;

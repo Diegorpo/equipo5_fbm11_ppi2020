@@ -3,17 +3,18 @@
     
 }
 .contenedor img{
-    width: 600px;
-    height: 450px;
-    margin-left:  319px;
+    width: 640px;
+    height: 490px;
+    margin-left:  300px;
+    margin-top: -30px;
 }
 .boton{
     background: rgb(33, 245, 234);
     width: 160px;
     height: 50px;
     border-radius: 20px;
-    margin-left: 530px;
-    margin-top: 50px;
+    margin-left: 546px;
+    margin-top: 12px;
 
 }
 .bot{
