@@ -1,0 +1,65 @@
+.contenedor{
+    padding: 50px;
+}
+.boton7{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.icono img {
+    width: 430x;
+    height: 330px;
+    margin-left: 460px;
+    margin-top: 20px;
+}
+.A{
+    margin-left: 620px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 60px;
+}
+.boton8{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.boton9{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.S{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+   
+    margin-top: 20px;
+}
+.L{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+   
+    margin-top: 20px;
+}
+.E{
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 40px;
+}

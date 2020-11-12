@@ -2,6 +2,8 @@ import React from 'react';
 import Principal from '../src/pages/Principal.js';
 import Menu from '../src/pages/Menu.js';
 import Acerca  from '../src/pages/Acerca.js';
+import Ayuda  from '../src/pages/Ayuda.js';
+import Quejas from '../src/pages/Quejas.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -21,6 +23,12 @@ function App() {
           </Route>
           <Route path="/Acerca" exact>
             <Acerca/>
+          </Route>
+          <Route path="/Ayuda" exact>
+            <Ayuda/>
+          </Route>
+          <Route path="/Quejas" exact>
+            <Quejas/>
           </Route>
         </Switch>
         </BrowserRouter>
