@@ -3,7 +3,8 @@ import Principal from '../src/pages/Principal.js';
 import Menu from '../src/pages/Menu.js';
 import Acerca  from '../src/pages/Acerca.js';
 import Ayuda  from '../src/pages/Ayuda.js';
-import Quejas from '../src/pages/Quejas.js';
+import Quejas from '../src/pages/Quejas.js'
+import Ingreso  from '../src/pages/Ingreso.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -29,6 +30,9 @@ function App() {
           </Route>
           <Route path="/Quejas" exact>
             <Quejas/>
+          </Route>
+          <Route path="/Ingreso" exact>
+            <Ingreso/>
           </Route>
         </Switch>
         </BrowserRouter>
