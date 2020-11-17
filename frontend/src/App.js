@@ -5,6 +5,8 @@ import Acerca  from '../src/pages/Acerca.js';
 import Ayuda  from '../src/pages/Ayuda.js';
 import Quejas from '../src/pages/Quejas.js'
 import Ingreso  from '../src/pages/Ingreso.js';
+import Registro   from '../src/pages/Registro.js';
+import Inicio  from '../src/pages/Inicio.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -33,6 +35,12 @@ function App() {
           </Route>
           <Route path="/Ingreso" exact>
             <Ingreso/>
+          </Route>
+          <Route path="/Registro" exact>
+            <Registro/>
+          </Route>
+          <Route path="/Inicio" exact>
+            <Inicio/>
           </Route>
         </Switch>
         </BrowserRouter>
