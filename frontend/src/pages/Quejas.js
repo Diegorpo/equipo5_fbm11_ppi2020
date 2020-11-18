@@ -13,7 +13,7 @@ class Quejas extends Component {
            <div className=" Pagina">
                <h14> QUEJAS Y SUGERENCIAS </h14>
                <div className=" Pagina1">
-               <h15> DE LA PÁGINA</h15>
+               <h15> DE LOS PARQUEADEROS </h15>
                </div>
            <div class="form-group">
                 <div class="Mb1">

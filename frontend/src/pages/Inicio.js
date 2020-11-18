@@ -10,11 +10,11 @@ class   Inicio extends Component {
             <button className="boton16"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
            <img src={ Parking } />
-           <div className=" Pagina">
+           <div className=" Pagina6">
             <h20> Inicio de sesión </h20>
                
            <div class="form-group">
-                <div class="Mb7">
+                <div class="Mb9">
                     <label for="validationTextarea"> Correo electrónico </label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Correo electrónico" required></textarea>
                     <div class="invalid-feedback">
@@ -23,7 +23,7 @@ class   Inicio extends Component {
             </div>
             </div>
             <div class="form-group">
-                <div class="Mb8">
+                <div class="Mb10">
                     <label for="validationTextarea"> Contraseña </label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Contraseña" required></textarea>
                     <div class="invalid-feedback">
