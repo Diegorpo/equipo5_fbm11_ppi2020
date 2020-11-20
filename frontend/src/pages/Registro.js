@@ -7,7 +7,7 @@ class Registro extends Component {
     render () {
         return(
             <div className="botonn">
-            <button className="boton14"><Link to='/Menu'className="bot"> Volver </Link></button>
+            <button className="boton14"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
            <img src={ Parking } />
            <div className=" Pagina4">
@@ -15,6 +15,7 @@ class Registro extends Component {
                
            <div class="form-group">
                 <div class="Mb8">
+                <label for="validationTextarea">Nombre completo</label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Nombre completo" required></textarea>
                     <div class="invalid-feedback">
                     Aún no has escrito un mensaje 
@@ -56,7 +57,7 @@ class Registro extends Component {
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                       <div className="botonn">
-                 <button className="boton15"><Link to='/Perfil'className="bot"> Registrarse </Link> </button>
+                 <button className="boton15"><Link className="bot"> Registrarse </Link> </button>
                    
             
             

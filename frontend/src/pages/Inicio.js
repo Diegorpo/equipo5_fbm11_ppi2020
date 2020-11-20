@@ -7,7 +7,7 @@ class   Inicio extends Component {
     render () {
         return(
             <div className="botonn">
-            <button className="boton16"><Link to='/Menu'className="bot"> Volver </Link></button>
+            <button className="boton16"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
            <img src={ Parking } />
            <div className=" Pagina6">
@@ -29,7 +29,7 @@ class   Inicio extends Component {
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                       <div className="botonn">
-                 <button className="boton17"><Link to='/Perfil' className="bot"> Iniciar sesión </Link> </button>
+                 <button className="boton17"><Link t className="bot"> Iniciar sesión </Link> </button>
                     </div>
                   </div>
             </div>

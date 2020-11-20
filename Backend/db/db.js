@@ -1,10 +1,10 @@
 const mysql =require('mysql');
 const mysqlConnection= mysql.createConnection({
 
-host:'181.133.136.83',
-user:'mediatecnica',
-password:'123',
-database:'lab_mediatecnica',
+host:'bygcafnqdoscsmxpbggx-mysql.services.clever-cloud.com',
+user:'umsa2inyfxfxfh1x',
+password:'V0qQlv2BPyoNUOsIG4pX',
+database:'bygcafnqdoscsmxpbggx',
 multipleStatements:true
 });
 
@@ -14,7 +14,7 @@ if(err){
     return;
 }else{
 
-    console.log('base de datos conectada');
+    console.log('Base de datos conectada');
 }
 
 })

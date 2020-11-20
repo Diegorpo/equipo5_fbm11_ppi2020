@@ -6,12 +6,15 @@
     margin-left: 10px;
     margin-top: 17px;
 }
-.Pagina{
-    margin-left: 418px;
-    font-size: 28px;
+.Mb9{
+   margin-left: 415px;
+    font-size: 25px;
     color: rgb(0, 12, 65);
     font-family: 'Times New Roman', Times, serif;
     width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 20px;
     text-align: center;
 }
 .boton17{
@@ -21,4 +24,23 @@
     border-radius: 15px;
     margin-left: 10px;
     margin-top: 17px;
+}
+.Mb10{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
+.Pagina6{
+    margin-left: 0px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;  
 }

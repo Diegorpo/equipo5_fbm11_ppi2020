@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const mysqlConnection = require('../db/db');
 router.get('/',(req,res)=>{
-mysqlConnection.query('SELEC * FROM parqueadero',(err,rows,fields)=>{
+mysqlConnection.query('SELECT * FROM tblparqueadero',(err,rows,fields)=>{
 
      if (!err){
          res.json(rows);
@@ -12,9 +12,9 @@ mysqlConnection.query('SELEC * FROM parqueadero',(err,rows,fields)=>{
     
 });
 });
-router.get('/parqueadero/:id',(req,res)=>{
-    const {id}= req.parans;
-    mysqlConnection.query('SELEC * FROM parqueadero WHERE id =?',[id],
+router.get('/buscar/:id',(req,res)=>{
+    const {id}= req.params;
+    mysqlConnection.query('SELECT * FROM tblparqueadero WHERE id_parqueadero =?',[id],
     (err,rows,fields)=>{
      if(!err){
          res.json(rows[0]);
@@ -23,4 +23,4 @@ router.get('/parqueadero/:id',(req,res)=>{
          }
     });
 });
-parqueadero.exports = router;
+module.exports = router;
