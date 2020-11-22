@@ -10,6 +10,7 @@ class Ingreso extends Component {
                 <button className="boton11"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
                 <img src={Parking } />
+                
                 <div className="botonn">
                 <button className="boton12"><Link to='/Inicio'className="bot"> Iniciar sesión </Link></button>
                 <div className="botonn">
@@ -18,6 +19,7 @@ class Ingreso extends Component {
                 </div>
                 </div>
                 </div>
+                
         )};
     };
 

@@ -2,24 +2,71 @@
     padding: 50px;
     
 }
-.boton14{
-    background: rgb(26, 241, 231);
-    width: 150px;
+.Mb22{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
     height: 40px;
     border-radius: 15px;
-    margin-left: 10px;
-    margin-top: 17px;
+    margin-top: 20px;
+    text-align: center;
 }
-
-.boton15{
-    background: rgb(26, 241, 231);
-    width: 150px;
+.Mb23{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
     height: 40px;
     border-radius: 15px;
-    margin-left: 10px;
-    margin-top: 17px;
+    margin-top: 100px;
+    text-align: center;
 }
-.Pagina4{
+.Mb24{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    text-align: center;
+}.Mb25{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    text-align: center;
+}.Mb26{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
+.Mb27{
+    margin-left: 415px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    height: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    text-align: center;
+}
+.Pagina20{
     margin-left: 0px;
     font-size: 40px;
     color: rgb(0, 12, 65);
@@ -27,47 +74,19 @@
     text-align: center;
     margin-top: 20px;  
 }
-.Mb8{
-    margin-left: 415px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-    width: 500px;
+.boton20{
+    background: rgb(26, 241, 231);
+    width: 150px;
     height: 40px;
     border-radius: 15px;
-    margin-top: 10px;
-    text-align: center;
+    margin-left: 10px;
+    margin-top: 17px;
 }
-.Mb5{
-    margin-left: 415px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-    width: 500px;
+.boton28{
+    background: rgb(26, 241, 231);
+    width: 150px;
     height: 40px;
     border-radius: 15px;
-    margin-top: 100px;
-    text-align: center;
-}
-.Mb6{
-    margin-left: 415px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-    width: 500px;
-    height: 40px;
-    border-radius: 15px;
-    margin-top: 100px;
-    text-align: center;
-}
-.Mb7{
-    margin-left: 415px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-    width: 500px;
-    height: 40px;
-    border-radius: 15px;
-    margin-top: 100px;
-    text-align: center;
+    margin-left: 10px;
+    margin-top: 17px;
 }

@@ -1,3 +1,15 @@
+.contenedor{
+    padding: 50px;
+    
+}
+.Pagina21{
+    margin-left: 0px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;  
+}
 .boton11{
     background: rgb(26, 241, 231);
     width: 150px;
@@ -22,3 +34,4 @@
     margin-left: 582px;
     margin-top: 40px;
 }
+

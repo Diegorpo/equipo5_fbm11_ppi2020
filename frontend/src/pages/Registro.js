@@ -15,8 +15,8 @@ class Registro extends Component {
                
            <div class="form-group">
                 <div class="Mb8">
-                <label for="validationTextarea">Nombre completo</label>
-                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Nombre completo" required></textarea>
+                <label for="validationTextarea">Nombre de usuario</label>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Nombre de usuario" required></textarea>
                     <div class="invalid-feedback">
                     Aún no has escrito un mensaje 
                     </div>
@@ -28,7 +28,7 @@ class Registro extends Component {
 
             <div class="form-group">
                 <div class="Mb5">
-                <label for="validationTextarea">Correo electronico</label>
+                <label for="validationTextarea">Correo electrónico</label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Correo electrónico" required></textarea>
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
@@ -37,18 +37,6 @@ class Registro extends Component {
                 
                 </div>
            
-
-            <div class="form-group">
-                <div class="Mb6">
-                    <label for="validationTextarea"> Número de documento</label>
-                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Número de documento" required></textarea>
-                    <div class="invalid-feedback">
-                      Aún no has escrito un mensaje 
-                      
-                      </div>
-            </div>
-                
-                </div>
 
             <div class="form-group">
                 <div class="Mb7">

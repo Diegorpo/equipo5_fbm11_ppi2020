@@ -17,21 +17,22 @@ class Quejas extends Component {
                </div>
            <div class="form-group">
                 <div class="Mb1">
-                    <label for="validationTextarea"> Quejas </label>
-                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Dejanos aquí tu queja.." required></textarea>
+                    <label for="validationTextarea">Número del parqueadero </label>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Número del parqueadero (ej: 4)" required></textarea>
                     <div class="invalid-feedback">
                     Aún no has escrito un mensaje 
-                    <div className="botonn">
-                 <button className="Mb4"><Link className="bot"> Enviar </Link> </button>
-                    </div>
+                    
                   </div>
             </div>
            
             </div>
+        
+           
+            
             <div class="form-group">
                 <div class="Mb2">
-                    <label for="validationTextarea"> Sugerencias  </label>
-                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Dejanos aquí tu sugerencia..." required></textarea>
+                    <label for="validationTextarea"> Tipo de comentario </label>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Deja tu queja o sugerencia" required></textarea>
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                       <div className="botonn">
@@ -42,10 +43,9 @@ class Quejas extends Component {
             
             </div>
             </div>
+            </div>
+            </div>
                 
-                </div>
-                </div>
-              
         )};
     };
 

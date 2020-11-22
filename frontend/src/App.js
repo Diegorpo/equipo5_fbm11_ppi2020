@@ -7,6 +7,8 @@ import Quejas from '../src/pages/Quejas.js'
 import Ingreso  from '../src/pages/Ingreso.js';
 import Registro   from '../src/pages/Registro.js';
 import Inicio  from '../src/pages/Inicio.js';
+import Rparqueadero  from '../src/pages/Rparqueadero.js';
+import Perfil  from '../src/pages/Perfil.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -41,6 +43,12 @@ function App() {
           </Route>
           <Route path="/Inicio" exact>
             <Inicio/>
+          </Route>
+          <Route path="/Rparqueadero" exact>
+            <Rparqueadero/>
+          </Route>
+          <Route path="/Perfil" exact>
+            <Perfil/>
           </Route>
         </Switch>
         </BrowserRouter>
