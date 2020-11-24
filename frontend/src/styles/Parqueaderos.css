@@ -2,3 +2,52 @@
     padding: 50px;
     
 }
+.boton40{
+    background: rgb(26, 241, 231);
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    margin-left: 5px;
+    margin-top: 17px;
+}
+.Pagina40{
+    margin-left: 398px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+    text-align: center;
+}
+.Pagina41{
+    margin-left: 10px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 5px;
+}
+.Pagina42{
+    margin-left: 25px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+}
+.Pagina43{
+    margin-left: 25px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+}
+.Pagina44{
+    margin-left: 25px;
+    font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top:20px;
+}

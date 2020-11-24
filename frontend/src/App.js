@@ -10,6 +10,8 @@ import Inicio  from '../src/pages/Inicio.js';
 import Rparqueadero  from '../src/pages/Rparqueadero.js';
 import Perfil  from '../src/pages/Perfil.js';
 import Vcomentario  from '../src/pages/Vcomentario.js';
+import Parqueaderos  from '../src/pages/Parqueaderos.js';
+
 import {
   BrowserRouter, Route,
   Switch,
@@ -53,6 +55,9 @@ function App() {
           </Route>
           <Route path="/Vcomentario" exact>
             <Vcomentario/>
+          </Route>
+          <Route path="/Parqueaderos" exact>
+            <Parqueaderos/>
           </Route>
         </Switch>
         </BrowserRouter>
