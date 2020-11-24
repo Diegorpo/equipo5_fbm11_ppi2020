@@ -11,6 +11,7 @@ class Acerca extends Component {
     render () {
         return(
         
+            
                 <div className="botonn">
                  <button className="boton6"><Link to='/Menu'className="bot"> Volver </Link></button>
                  <div className=" icono ">

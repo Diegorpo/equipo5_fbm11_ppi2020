@@ -5,7 +5,11 @@ const parqueadero = require('./routes/parqueadero');
 const comentario = require('./routes/comentario');
 //const carros = requiere('./routes/Administrador');
 //ajustes
-app.set('port',4001)
+const cors = require('cors');
+// Uso de cors
+app.use(cors({origin: '*'}));
+//
+app.set('port', process.env.PORT || 4000)
 
 
 // Middleware

@@ -45,7 +45,7 @@ class Registro extends Component {
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                       <div className="botonn">
-                 <button className="boton15"><Link className="bot"> Registrarse </Link> </button>
+                 <button className="boton15"><Link to='/Perfil' className="bot"> Registrarse </Link> </button>
                    
             
             

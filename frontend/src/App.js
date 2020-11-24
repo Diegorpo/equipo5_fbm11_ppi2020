@@ -9,6 +9,7 @@ import Registro   from '../src/pages/Registro.js';
 import Inicio  from '../src/pages/Inicio.js';
 import Rparqueadero  from '../src/pages/Rparqueadero.js';
 import Perfil  from '../src/pages/Perfil.js';
+import Vcomentario  from '../src/pages/Vcomentario.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -49,6 +50,9 @@ function App() {
           </Route>
           <Route path="/Perfil" exact>
             <Perfil/>
+          </Route>
+          <Route path="/Vcomentario" exact>
+            <Vcomentario/>
           </Route>
         </Switch>
         </BrowserRouter>

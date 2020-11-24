@@ -15,8 +15,10 @@ class Quejas extends Component {
                <div className=" Pagina1">
                <h15> DE LOS PARQUEADEROS </h15>
                </div>
-           <div class="form-group">
-                <div class="Mb1">
+               <div class="form-group">
+                
+            <div class="form-group">
+                <div class="Mb30">
                     <label for="validationTextarea">Número del parqueadero </label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Número del parqueadero (ej: 4)" required></textarea>
                     <div class="invalid-feedback">
@@ -26,12 +28,21 @@ class Quejas extends Component {
             </div>
            
             </div>
-        
            
-            
             <div class="form-group">
                 <div class="Mb2">
                     <label for="validationTextarea"> Tipo de comentario </label>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Escriba si es una seugerencia o una queja" required></textarea>
+                    <div class="invalid-feedback">
+                      Aún no has escrito un mensaje 
+                     
+                  </div>
+            </div>
+           
+            
+            <div class="form-group">
+                <div class="Mb1">
+                    <label for="validationTextarea"> Comentario </label>
                     <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Deja tu queja o sugerencia" required></textarea>
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
@@ -40,12 +51,13 @@ class Quejas extends Component {
                     </div>
                   </div>
             </div>
-            
+           
             </div>
             </div>
             </div>
             </div>
-                
+            </div>
+            </div>
         )};
     };
 

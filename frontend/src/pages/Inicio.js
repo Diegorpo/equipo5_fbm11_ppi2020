@@ -38,7 +38,7 @@ class   Inicio extends Component {
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                       <div className="botonn">
-                 <button className="boton17"><Link t className="bot"> Iniciar sesión </Link> </button>
+                 <button className="boton17"><Link to='/Perfil' className="bot"> Iniciar sesión </Link> </button>
                     </div>
                   </div>
             </div>
