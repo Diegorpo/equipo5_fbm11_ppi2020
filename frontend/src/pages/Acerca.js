@@ -26,10 +26,10 @@ class Acerca extends Component {
                 <div className=" So ">
                 <h8> Somos 4 estudiantes de la institución educativa Félix de Bedout Moreno del grado undécimo; decidimos crear una app para ayudar con el problema de movilidad que se viene prsentando en el sector de la comuna 5. </h8>
                 </div>
-                <img src={ Hellen }  alt="Responsive image"/>
-                <img src={ Allison }  alt="Responsive image"/>
-                <img src={ Daniela } alt="Responsive image" />
-                <img src={ Alejandro } alt="Responsive image"/>
+                <img src={ Hellen }  alt=" "/>
+                <img src={ Allison }  alt=" "/>
+                <img src={ Daniela } alt=" " />
+                <img src={ Alejandro } alt=" "/>
                 </div>
                 
         )};
