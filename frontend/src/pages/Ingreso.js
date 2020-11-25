@@ -9,7 +9,7 @@ class Ingreso extends Component {
             <div className="botonn">
                 <button className="boton11"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
-                <img src={Parking } />
+                <img src={Parking } alt="Responsive image" />
                 
                 <div className="botonn">
                 <button className="boton12"><Link to='/Inicio'className="bot"> Iniciar sesión </Link></button>

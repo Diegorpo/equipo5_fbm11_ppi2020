@@ -9,7 +9,7 @@ class Ayuda extends Component {
             <div className="botonn">
             <button className="boton7"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
-           <img src={ Parking } />
+           <img src={ Parking } alt="Responsive image" />
            <div className=" A ">
            <h12> Ayuda </h12>
            </div>

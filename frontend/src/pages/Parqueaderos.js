@@ -9,7 +9,7 @@ class Parqueaderos extends Component {
             <div className="botonn">
             <button className="boton40"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
-           <img src={ Parking } />
+           <img src={ Parking } alt="Responsive image" />
            <div className=" Pagina40">
                <h14> PARQUEADEROS </h14>
                </div>

@@ -9,7 +9,7 @@ class   Inicio extends Component {
             <div className="botonn">
             <button className="boton16"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
-           <img src={ Parking } />
+           <img src={ Parking } alt="Responsive image" />
            <div className=" Pagina6">
             <h20> Inicio de sesión </h20>
                
