@@ -1,29 +1,21 @@
-const express= require('express');
+const express = require('express');
 const app = express();
-const Administrador= require('./routes/Administrador');
+
+const inicio = require('./routes/inicio');
+const Administrador = require('./routes/Administrador');
+const comentario = require('./routes/comentarioS');
 const parqueadero = require('./routes/parqueadero');
-const comentario = require('./routes/comentario');
-//const carros = requiere('./routes/Administrador');
-//ajustes
-const cors = require('cors');
-// Uso de cors
-app.use(cors({origin: '*'}));
-//
-app.set('port', process.env.PORT || 4000)
 
+app.set('port', 4000);
 
-// Middleware
 app.use(express.json());
 
-
-// ajustess
-app.use('/api',Administrador);
-app.use('/api/parqueadero', parqueadero);
+//rutas
+app.use('/api/inicio', inicio);
+app.use('/api/Administrador', Administrador);
 app.use('/api/comentario', comentario);
-//app.use('/api/carros', carros);
+app.use('/api/parqueadero', parqueadero);
 
-
-
-app.listen(app.get('port'),()=>{
-    console.log(`Servidor corriendo en puerto  ${app.get('port')}`)
+app.listen(app.get('port'), ()=>{
+ console.log(`Server on port ${app.get('port')}`);
 })
