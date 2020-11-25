@@ -9,7 +9,7 @@ class Perfil extends Component {
             <div className="botonn">
                 <button className="boton29"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
-                <img src={Parking } alt="Responsive image" />
+                <img src={Parking } alt=" " />
                 <div className=" Pagina22">
                <h14> PERFIL </h14>
                 <div className="botonn">

@@ -15,7 +15,7 @@ class Acerca extends Component {
                 <div className="botonn">
                  <button className="boton6"><Link to='/Menu'className="bot"> Volver </Link></button>
                  <div className=" icono ">
-                <img src={ Parking } alt="Responsive image" />
+                <img src={ Parking } alt=" " />
                </div>
                <div className=" Ac ">
                 <h9> ACERCA DE  </h9>

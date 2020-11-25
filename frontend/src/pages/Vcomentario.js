@@ -9,7 +9,7 @@ class Vcomentario extends Component{
             <div className="botonn">
                 <button className="boton29"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
-                <img src={Parking } alt="Responsive image" />
+                <img src={Parking } alt=" " />
                 <div className=" Pagina30">
                <h15> VISUALIZACIÓN DE COMENTARIOS </h15>
                 </div>

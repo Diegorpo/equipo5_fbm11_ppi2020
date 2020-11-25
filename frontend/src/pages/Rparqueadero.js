@@ -9,7 +9,7 @@ class Rparqueadero extends Component {
             <div className="botonn">
             <button className="boton20"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
-           <img src={ Parking }  alt="Responsive image" />
+           <img src={ Parking }  alt=" " />
            <div className=" Pagina20">
                <h14> REGISTRO DEL PARQUEADERO </h14>
                <div class="form-group">

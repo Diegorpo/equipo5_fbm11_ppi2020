@@ -9,7 +9,7 @@ class Registro extends Component {
             <div className="botonn">
             <button className="boton14"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
-           <img src={ Parking } alt="Responsive image" />
+           <img src={ Parking } alt=" " />
            <div className=" Pagina4">
                <h14> REGISTRARSE </h14>
                

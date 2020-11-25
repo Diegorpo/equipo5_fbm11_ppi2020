@@ -7,7 +7,7 @@ class Menu extends Component {
     render () {
         return(
             <div className="fondo">
-                <img src={ Zone  } alt="Responsive image" />
+                <img src={ Zone  } alt=" " />
                 <div class="card" >
                 <div class="card-body">
                   <h1 class="card-title1"> Ir a los parqueaderos  </h1>
