@@ -6,6 +6,8 @@ import '../styles/Registro.css';
 class Registro extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
             <button className="boton14"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
@@ -59,7 +61,8 @@ class Registro extends Component {
                       </div>
           
                       </div>
-           
+                      </div>
+                </div>
               
         )};
     };

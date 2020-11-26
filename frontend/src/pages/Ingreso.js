@@ -6,6 +6,8 @@ import '../styles/Ingreso.css';
 class Ingreso extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
                 <button className="boton11"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
@@ -19,7 +21,8 @@ class Ingreso extends Component {
                 </div>
                 </div>
                 </div>
-                
+                </div>
+                </div>
         )};
     };
 

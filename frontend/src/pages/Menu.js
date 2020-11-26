@@ -6,6 +6,8 @@ import '../styles/Menu.css';
 class Menu extends Component {
     render () {
         return(
+          <div>
+          <div className="Todo">
             <div className="fondo">
                 <img src={ Zone  } alt=" " />
                 <div class="card" >
@@ -39,7 +41,8 @@ class Menu extends Component {
                 </div>
                 </div>
             </div>
-        
+            </div>
+                </div>
         )};
     };
 

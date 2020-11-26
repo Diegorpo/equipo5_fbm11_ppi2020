@@ -6,6 +6,8 @@ import '../styles/Inicio.css';
 class   Inicio extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
             <button className="boton16"><Link to='/Ingreso'className="bot"> Volver </Link></button>
             <div className=" icono ">
@@ -48,6 +50,9 @@ class   Inicio extends Component {
             
             </div>
             </div>
+                
+                </div>
+                </div>
                 
                 </div>
             

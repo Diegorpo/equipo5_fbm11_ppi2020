@@ -6,6 +6,8 @@ import '../styles/Rparqueadero.css';
 class Rparqueadero extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
             <button className="boton20"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
@@ -69,7 +71,8 @@ class Rparqueadero extends Component {
         </div>
         </div>
                </div>
-          
+               </div>
+                </div>
             
          
         )};

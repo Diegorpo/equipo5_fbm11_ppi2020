@@ -6,6 +6,8 @@ import '../styles/Ayuda.css';
 class Ayuda extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
             <button className="boton7"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
@@ -28,6 +30,8 @@ class Ayuda extends Component {
             <h11> Los lleva a la información del título correspondiente. </h11>
             </div>
             </div>
+                </div>
+                </div>
                 </div>
                 </div>
         )};

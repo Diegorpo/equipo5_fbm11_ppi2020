@@ -6,6 +6,8 @@ import '../styles/Quejas.css';
 class Quejas extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
             <button className="boton10"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
@@ -28,6 +30,8 @@ class Quejas extends Component {
             </div>
            
             </div>
+            </div>
+                </div>
            
             <div class="form-group">
                 <div class="Mb2">

@@ -6,6 +6,8 @@ import '../styles/Perfil.css';
 class Perfil extends Component {
     render () {
         return(
+            <div>
+            <div className="Todo">
             <div className="botonn">
                 <button className="boton29"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className="icono ">
@@ -16,6 +18,8 @@ class Perfil extends Component {
                 <button className="boton30"><Link to='/Rparqueadero'className="bot"> Edición de parqueaderos </Link></button>
                 <div className="botonn">
                 <button className="boton31"><Link to='/Vcomentario'className="bot"> Visualización de quejas y sugrencias  </Link></button>
+                </div>
+                </div>
                 </div>
                 </div>
                 </div>

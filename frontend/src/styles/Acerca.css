@@ -1,11 +1,11 @@
-.contenedor{
-    padding: 50px;
-    
+.todo{
+    Max-width:100px;
+    width:100px;
 }
 .boton6{
     background: rgb(26, 241, 231);
     width: 150px;
-    height: 40px;
+    height-auto: 40px;
     border-radius: 15px;
     margin-left: 50px;
     margin-top: 20px;
