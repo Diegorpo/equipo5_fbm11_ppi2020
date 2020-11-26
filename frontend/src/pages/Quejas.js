@@ -36,7 +36,7 @@ class Quejas extends Component {
             <div class="form-group">
                 <div class="Mb2">
                     <label for="validationTextarea"> Tipo de comentario </label>
-                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Escriba si es una seugerencia o una queja" required></textarea>
+                    <textarea class="form-control is-invalid" id="validationTextarea" placeholder="Escriba si es una sugerencia o una queja" required></textarea>
                     <div class="invalid-feedback">
                       Aún no has escrito un mensaje 
                      

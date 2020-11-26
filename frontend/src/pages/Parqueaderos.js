@@ -9,25 +9,31 @@ class Parqueaderos extends Component {
          <div>
          <div className="Todo">
             <div className="botonn">
-            <button className="boton40"><Link to='/Menu'className="bot"> Volver </Link></button>
+            <button className="boton50"><Link to='/Menu'className="bot"> Volver </Link></button>
             <div className=" icono ">
            <img src={ Parking } alt=" " />
-           <div className=" Pagina40">
+           <div className=" Pagina50">
                <h14> PARQUEADEROS </h14>
                </div>
-            <div className=" Pagina41">
-               <h14> Elige tu tipo de vehículo </h14>
-               </div>
-            <div className=" Pagina42">
+          
+            <div className=" Pagina60">
                <h14> Opciones: </h14>
                </div>  
-            <div className=" Pagina43">
-               <h14> Precio por hora </h14>
-               </div>    
-            <div className=" Pagina44">
-               <h14> Ubicación </h14>
-               </div>
+               <div className="botonn">
+            <button className="boton51"><Link to='/Parqueadero1'className="bot"> Parqueadero 1 </Link></button>
+            <div className="botonn">
+            <button className="boton53"><Link to='/Parqueadero2'className="bot"> Parqueadero 2 </Link></button>
+            <div className="botonn">
+            <button className="boton52"><Link to='/Parqueadero3'className="bot"> Parqueadero 3 </Link></button>
+            <div className="botonn">
+            <button className="boton54"><Link to='/Parqueadero4'className="bot"> Parqueadero 4 </Link></button>
                 
+                </div>
+
+          </div>
+          </div>
+                </div>
+                     
                 </div>
 
           </div>

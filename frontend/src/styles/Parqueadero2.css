@@ -1,75 +1,71 @@
-.todo{
-    Max-width:100%;
-    width:80%;
-}
-.boton10{
+.boton90{
     background: rgb(26, 241, 231);
     width: 150px;
     height: 40px;
     border-radius: 15px;
-    margin-left: 50px;
-    margin-top: 20px;
+    margin-left: 5px;
+    margin-top: 17px;
 }
-.icono img {
-    width: 430x;
-    height: 330px;
-    margin-left: 460px;
-    margin-top: 20px;
-}
-.Pagina{
-    margin-left: 420px;
+.Pagina91{
+    margin-left: 398px;
     font-size: 40px;
     color: rgb(0, 12, 65);
     font-family: 'Times New Roman', Times, serif;
     width: 500px;
-    margin-top: 60px;
-}
-.Mb1{
-    margin-left: 20px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-   
     margin-top: 20px;
+    text-align: center;
 }
-.Mb2{
-    margin-left: 20px;
-    font-size: 25px;
-    color: rgb(0, 12, 65);
-    font-family: 'Times New Roman', Times, serif;
-   
-    margin-top: 20px;
-}
-.Mb3{
-    background: rgb(26, 241, 231);
-    width: 150px;
-    height: 50px;
-    border-radius: 15px;
-    margin-left: 55px;
-    margin-top: 20px;
-}
-.Mb4{
-    background: rgb(26, 241, 231);
-    width: 150px;
-    height: 40px;
-    border-radius: 15px;
-    margin-left: 155px;
-    margin-top: 20px;
-}
-.Pagina1{
-    margin-left: 5px;
+.Pagina92{
+    margin-left: 398px;
     font-size: 40px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+    text-align: center;
+}
+.Pagina93{
+    margin-left: 20px;
+    font-size: 25px;
     color: rgb(0, 12, 65);
     font-family: 'Times New Roman', Times, serif;
     width: 500px;
     margin-top: 20px;
     
 }
-.Mb30{
+.Pagina94{
     margin-left: 20px;
     font-size: 25px;
     color: rgb(0, 12, 65);
     font-family: 'Times New Roman', Times, serif;
-    width: 300px;
+    width: 500px;
     margin-top: 20px;
+    
+}
+.Pagina95{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+    
+}
+.Pagina96{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 700px;
+    margin-top: 20px;
+    
+}
+.Pagina97{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(0, 12, 65);
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    margin-top: 20px;
+    
 }

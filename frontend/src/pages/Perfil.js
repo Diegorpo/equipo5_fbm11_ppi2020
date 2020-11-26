@@ -17,7 +17,7 @@ class Perfil extends Component {
                 <div className="botonn">
                 <button className="boton30"><Link to='/Rparqueadero'className="bot"> Edición de parqueaderos </Link></button>
                 <div className="botonn">
-                <button className="boton31"><Link to='/Vcomentario'className="bot"> Visualización de quejas y sugrencias  </Link></button>
+                <button className="boton31"><Link to='/Vcomentario'className="bot"> Visualización de quejas y sugerencias  </Link></button>
                 </div>
                 </div>
                 </div>

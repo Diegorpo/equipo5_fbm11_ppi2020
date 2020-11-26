@@ -11,7 +11,10 @@ import Rparqueadero  from '../src/pages/Rparqueadero.js';
 import Perfil  from '../src/pages/Perfil.js';
 import Vcomentario  from '../src/pages/Vcomentario.js';
 import Parqueaderos  from '../src/pages/Parqueaderos.js';
-
+import Parqueadero1  from '../src/pages/Parqueadero1.js';
+import Parqueadero2  from '../src/pages/Parqueadero2.js';
+import Parqueadero3 from '../src/pages/Parqueadero3.js';
+import Parqueadero4  from '../src/pages/Parqueadero4.js';
 import {
   BrowserRouter, Route,
   Switch,
@@ -58,6 +61,18 @@ function App() {
           </Route>
           <Route path="/Parqueaderos" exact>
             <Parqueaderos/>
+          </Route>
+          <Route path="/Parqueadero1" exact>
+            <Parqueadero1/>
+          </Route>
+          <Route path="/Parqueadero2" exact>
+            <Parqueadero2/>
+          </Route>
+           <Route path="/Parqueadero3" exact>
+            <Parqueadero3/>
+          </Route>
+          <Route path="/Parqueadero4" exact>
+            <Parqueadero4/>
           </Route>
         </Switch>
         </BrowserRouter>

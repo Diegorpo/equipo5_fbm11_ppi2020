@@ -1,6 +1,6 @@
 .todo{
-    Max-width:100px;
-    width:100px;
+    Max-width:100%;
+    width:80%;
 }
 .boton6{
     background: rgb(26, 241, 231);
@@ -11,8 +11,8 @@
     margin-top: 20px;
 }
 .icono img {
-    width: 430x;
-    height: 330px;
+    width: 430px;
+    height: auto;
     margin-left: 460px;
     margin-top: 20px;
 }
@@ -63,4 +63,10 @@
     height: 330px;
     margin-left: 460px;
     margin-top: 40px;
+}
+@media screen and (Max-width:400px){
+    .informa{
+        flex-direction: column;
+        padding: 0px;
+    }
 }

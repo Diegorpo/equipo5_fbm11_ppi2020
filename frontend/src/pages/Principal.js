@@ -18,6 +18,7 @@ class Principal extends Component {
                 </div>
                 </div>
                 </div>
+                
         )};
     };
 
